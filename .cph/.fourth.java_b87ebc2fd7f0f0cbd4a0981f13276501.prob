@@ -1,0 +1,1 @@
+{"name":"Local: fourth","url":"/Users/jala/Documents/Code/fourth.java","tests":[{"id":1749215000627,"input":"2 3\n1 2 3\n4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jala/Documents/Code/fourth.java","group":"local","local":true}
