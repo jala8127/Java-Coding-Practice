@@ -1,7 +1,7 @@
 import java.util.*;
 
 abstract class Payments {
-    abstract void paymentMode();
+    abstract void paymentMode() ;
 }
 
 class Upi extends Payments {
