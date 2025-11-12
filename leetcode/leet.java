@@ -1,3 +1,4 @@
+package leetcode;
 import java.util.*;
 public class leet.1 {
    public static void main (String args[]) {
