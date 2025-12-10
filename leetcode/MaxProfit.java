@@ -23,6 +23,8 @@ public class MaxProfit {
     }
 }
 
+
+// okay why the change 
 // public class MaxProfitOptimal {
 
 //     public static int getMaxProfit(int[] prices) {
